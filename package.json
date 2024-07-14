@@ -1,7 +1,7 @@
 {
-  "name": "advanced-tooltip",
+  "name": "infinity-timeline",
   "version": "0.0.1",
-  "description": "React Advanced Tooltip Components",
+  "description": "React Advanced Image Components",
   "files": [
     "./lib/"
   ],
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NafisMahmudAyon/advanced-tooltip.git"
+    "url": "git+https://github.com/NafisMahmudAyon/infinity-timeline.git"
   },
   "keywords": [
     "ui",
@@ -52,7 +52,7 @@
   "author": "Nafis Mahmud Ayon <nafismahmudayon@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NafisMahmudAyon/advanced-tooltip/issues"
+    "url": "https://github.com/NafisMahmudAyon/infinity-timeline/issues"
   },
   "dependencies": {
     "react": "^18",
